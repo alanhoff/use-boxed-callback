@@ -1,4 +1,4 @@
-Boxed Callback
+Boxed Callback ![build](https://travis-ci.org/alanhoff/use-boxed-callback.svg?branch=master)
 ==============
 
 This package provides a custom hook for creating immutable callback references,
